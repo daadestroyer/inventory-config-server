@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: order-service
+
+order:
+  tax-percentage: 18
+  discount-enabled: true
+
+server:
+  port: 8081
