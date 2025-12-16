@@ -1,1 +1,10 @@
+spring:
+  application:
+    name: inventory-service
 
+inventory:
+  min-stock: 10
+  max-stock: 500
+
+server:
+  port: 8082
